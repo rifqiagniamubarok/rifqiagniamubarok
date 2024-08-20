@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a passionate Fullstack Developer who views coding as more than just writing lines of code—it's an art form. Just as an artist pours their soul into creating a masterpiece, I channel my creativity and skills into every project I work on. For me, every line of code is a brushstroke on the canvas of technology.<br><br>"Every artist was first an amateur." – Ralph Waldo Emerson<br><br>Like any artist, I believe that continuous learning and experimentation are the keys to mastering the craft. Whether it's building web applications, designing user experiences, or architecting complex systems, I approach each challenge with the mindset of creating something beautiful, functional, and meaningful.
+I am a passionate Fullstack Developer who sees coding as a form of art. Every project I take on is an opportunity to create something that goes beyond functionality—it's about crafting experiences that resonate with users. Just as an artist brings their vision to life on canvas, I bring ideas to life through code.
+
+"Art is not what you see, but what you make others see." – Edgar Degas
+
+In my work, I strive to create solutions that are not only efficient and effective but also meaningful and inspiring. I believe that the true beauty of coding lies in its ability to transform abstract concepts into tangible, impactful outcomes. For me, every line of code is a brushstroke, and every application is a masterpiece in the making.
 
 
 ## 🌐 Socials:
